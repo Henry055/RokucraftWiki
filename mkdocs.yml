@@ -85,79 +85,79 @@ nav:
   - Home: index.md
   - Nations:
     - 🌊 Water Tribes:
-      - Overview: nations/water/water.md
-      - Societal Ranks: nations/water/waterranks.md
+      - Overview: Nations/Water/WaterTribe.md
+      - Societal Ranks: Nations/Water/SocietalRanks.md
       - Clans:
-        - How does it work?: nations/water/clansystem.md
-        - Arenqii: nations/water/arenqii.md
-        - Angniku: nations/water/angniku.md
-        - Koalkoaq: nations/water/koalkoaq.md
-        - Heagga: nations/water/heagga.md
-        - Yutu: nations/water/yutu.md
-      - Military: nations/water/watermilitary.md
+        - How does it work?: Nations/Water/ClanSystem.md
+        - Arenqii: Nations/Water/Arenqii.md
+        - Angniku: Nations/Water/Angniku.md
+        - Koalkoaq: Nations/Water/Koalkoaq.md
+        - Heagga: Nations/Water/Heagga.md
+        - Yutu: Nations/Water/Yutu.md
+      - Military: Nations/Water/Military.md
     - ⛰ Earth Kingdom:
-      - Overview: nations/earth/earth.md
-      - Societal Ranks: nations/earth/earthranks.md
+      - Overview: Nations/Earth/EarthKingdom.md
+      - Societal Ranks: Nations/Earth/SocietalRanks.md
       - Legal Systems:
-        - Laws: nations/earth/earthlaws.md
-        - Mayor System: nations/earth/earthmayorsystem.md
-        - Court System: nations/earth/earthcourtsystem.md
-      - Military: nations/earth/earthmilitary.md
+        - Laws: Nations/Earth/Laws.md
+        - Mayor System: Nations/Earth/MayorSystem.md
+        - Court System: Nations/Earth/CourtSystem.md
+      - Military: Nations/Earth/Military.md
     - 🔥 Fire Nation:
-      - Overview: nations/fire/fire.md
-      - Societal Ranks: nations/fire/fireranks.md
+      - Overview: Nations/Fire/FireNation.md
+      - Societal Ranks: Nations/Fire/SocietalRanks.md
       - Legal Systems:
-        - Laws: nations/fire/firelaws.md
-        - Royal Cabinet: nations/fire/fireroyalcabinet.md
-        - Govenor System: nations/fire/firegovenorsystem.md
-        - Court System: nations/fire/firecourtsystem.md
-      - Military: nations/fire/firemilitary.md
+        - Laws: Nations/Fire/Laws.md
+        - Royal Cabinet: Nations/Fire/RoyalCabinet.md
+        - Govenor System: Nations/Fire/GovenorSystem.md
+        - Court System: Nations/Fire/CourtSystem.md
+      - Military: Nations/Fire/Military.md
     - 💨 Air Collective:
-      - Overview: nations/air/air.md
-      - Societal Ranks: nations/air/airranks.md
-      - Air Council: nations/air/aircouncil.md
-      - Air Guardians: nations/air/airguardians.md
+      - Overview: Nations/Air/AirCollective.md
+      - Societal Ranks: Nations/Air/SocietalRanks.md
+      - Air Council: Nations/Air/Council.md
+      - Air Guardians: Nations/Air/AirGuardians.md
   - Lore:
-    - 🟡 Artifacts: lore/artifacts.md
-    - 🟢 Diseases: lore/diseases.md
-    - 🟢 Fauna: lore/fauna.md
-    - 🟢 Flora: lore/flora.md
-    - 🟢 Food: lore/food.md
-    - 🔴 Historical Figures: lore/historicalfigures.md
-    - 🟡 Holidays: lore/holidays.md
-    - 🟡🟢 Red Lotus: lore/redlotus.md
-    - 🟡🔴 Religion: lore/religion.md
-    - 🟢 Show Characters: lore/showcharacters.md
-    - 🟡🔴 Spirits: lore/spirits.md
-    - 🟡🟢 Zodiac: lore/zodiac.md
+    - 🟡 Artifacts: Lore/artifacts.md
+    - 🟢 Diseases: Lore/diseases.md
+    - 🟢 Fauna: Lore/fauna.md
+    - 🟢 Flora: Lore/flora.md
+    - 🟢 Food: Lore/food.md
+    - 🔴 Historical Figures: Lore/historicalfigures.md
+    - 🟡 Holidays: Lore/holidays.md
+    - 🟡🟢 Red Lotus: Lore/redlotus.md
+    - 🟡🔴 Religion: Lore/religion.md
+    - 🟢 Show Characters: Lore/showcharacters.md
+    - 🟡🔴 Spirits: Lore/spirits.md
+    - 🟡🟢 Zodiac: Lore/zodiac.md
   - Roleplay:
-    - How To Begin: roleplay/wheretostart.md
+    - How To Begin: Roleplay/HowToBegin.md
     - Important Information:
-      - Roleplay Guide: roleplay/roleplayguide.md
-      - Roleplay Rules: roleplay/roleplayrules.md
+      - Roleplay Guide: Roleplay/RoleplayGuide.md
+      - Roleplay Rules: Roleplay/RoleplayRules.md
     - Character Information:
-      - Character Creation (?): roleplay/charactergeneration.md
-      - Character Introductions: roleplay/characterintros.md
-      - Character Applications: roleplay/characterapplications.md
+      - Character Creation (?): Roleplay/CharacterGeneration.md
+      - Character Introductions: Roleplay/CharacterIntroductions.md
+      - Character Applications: Roleplay/CharacterApplications.md
     - Bending Information:
-      - Mastery: roleplay/mastery.md
-      - Sub-Elements: roleplay/subelements.md
+      - Mastery: Roleplay/Mastery.md
+      - Sub-Elements: Roleplay/SubElements.md
   - Gameplay:
-    - Bending: gameplay/bending.md
+    - Bending: Gameplay/Bending.md
     - Money:
-       - Auctioning: gameplay/auctioning.md
-       - Bug Catching: gameplay/bugcatching.md
-       - Mining: gameplay/mining.md
-       - Mobs: gameplay/mobs.md
-       - Quests: gameplay/quests.md
-       - Tea Brewing: gameplay/teabrewing.md
+       - Auctioning: Gameplay/Auctioning.md
+       - Bug Catching: Gameplay/BugCatching.md
+       - Mining: Gameplay/Mining.md
+       - Mobs: Gameplay/Mobs.md
+       - Quests: Gameplay/Quests.md
+       - Tea Brewing: Gameplay/TeaBrewing.md
     - Other:
-       - Art: gameplay/art.md
-       - Cards: gameplay/cards.md
-       - Housing: gameplay/housing.md
-       - Pets (PLACEHOLDER): gameplay/pets.md
-       - Chat System (PLACEHOLDER): gameplay/chat.md
+       - Art: Gameplay/Art.md
+       - Cards: Gameplay/Cards.md
+       - Housing: Gameplay/Housing.md
+       - Pets (PLACEHOLDER): Gameplay/Pets.md
+       - Chat System (PLACEHOLDER): Gameplay/Chat.md
   - Server Related:
-       - Resource Pack: serverrelated/resourcepack.md
-       - Rules: serverrelated/rules.md
-       - Staff: serverrelated/staff.md
+       - Resource Pack: ServerRelated/ResourcePack.md
+       - Rules: ServerRelated/Rules.md
+       - Staff: ServerRelated/Staff.md
