@@ -18,6 +18,8 @@ markdown_extensions:
           - .icons/custom
   - toc:
       permalink: '🔗'
+  - pymdownx.tasklist:
+      custom_checkbox: true
   - meta
   - admonition
   - footnotes
@@ -84,39 +86,39 @@ theme:
 nav:
   - Home: index.md
   - Nations:
-    - 🌊 Water Tribes:
-      - Overview: Nations/Water/WaterTribe.md
-      - Societal Ranks: Nations/Water/SocietalRanks.md
-      - Clans:
+    - Water Tribes:
+      - 🌊 Overview: Nations/Water/WaterTribe.md
+      - 🧑‍🤝‍🧑 Societal Ranks: Nations/Water/SocietalRanks.md
+      - 🛡️ Clans:
         - Clan System: Nations/Water/ClanSystem.md
         - Arenqii: Nations/Water/Arenqii.md
         - Angniku: Nations/Water/Angniku.md
         - Koalkoaq: Nations/Water/Koalkoaq.md
         - Heagga: Nations/Water/Heagga.md
         - Yutu: Nations/Water/Yutu.md
-      - Military: Nations/Water/Military.md
-    - ⛰ Earth Kingdom:
-      - Overview: Nations/Earth/EarthKingdom.md
-      - Societal Ranks: Nations/Earth/SocietalRanks.md
-      - Legal Systems:
+      - 🔱 Military: Nations/Water/Military.md
+    - Earth Kingdom:
+      - ⛰ Overview: Nations/Earth/EarthKingdom.md
+      - 👑 Societal Ranks: Nations/Earth/SocietalRanks.md
+      - 🧑‍⚖️ Legal Systems:
         - Laws: Nations/Earth/Laws.md
         - Mayor System: Nations/Earth/MayorSystem.md
         - Court System: Nations/Earth/CourtSystem.md
-      - Military: Nations/Earth/Military.md
-    - 🔥 Fire Nation:
-      - Overview: Nations/Fire/FireNation.md
-      - Societal Ranks: Nations/Fire/SocietalRanks.md
-      - Legal Systems:
+      - 🔰 Military: Nations/Earth/Military.md
+    - Fire Nation:
+      - 🔥 Overview: Nations/Fire/FireNation.md
+      - 🏛️ Societal Ranks: Nations/Fire/SocietalRanks.md
+      - 🧑‍💼 Legal Systems:
         - Laws: Nations/Fire/Laws.md
         - Royal Cabinet: Nations/Fire/RoyalCabinet.md
         - Govenor System: Nations/Fire/GovenorSystem.md
         - Court System: Nations/Fire/CourtSystem.md
-      - Military: Nations/Fire/Military.md
-    - 💨 Air Collective:
-      - Overview: Nations/Air/AirCollective.md
-      - Societal Ranks: Nations/Air/SocietalRanks.md
-      - Air Council: Nations/Air/Council.md
-      - Air Guardians: Nations/Air/AirGuardians.md
+      - ⚔️ Military: Nations/Fire/Military.md
+    - Air Collective:
+      - 💨 Overview: Nations/Air/AirCollective.md
+      - 💛 Societal Ranks: Nations/Air/SocietalRanks.md
+      - 📢 Air Council: Nations/Air/Council.md
+      - ☮️ Air Guardians: Nations/Air/AirGuardians.md
   - Lore:
     - 🟡 Artifacts: Lore/artifacts.md
     - 🟢 Diseases: Lore/diseases.md
@@ -143,20 +145,20 @@ nav:
       - Mastery: Roleplay/Mastery.md
       - Sub-Elements: Roleplay/SubElements.md
   - Gameplay:
-    - Bending: Gameplay/Bending.md
-    - Money:
+    - 💵 Money:
        - Auctioning: Gameplay/Auctioning.md
        - Bug Catching: Gameplay/BugCatching.md
        - Mining: Gameplay/Mining.md
        - Mobs: Gameplay/Mobs.md
        - Quests: Gameplay/Quests.md
        - Tea Brewing: Gameplay/TeaBrewing.md
-    - Other:
+    - 🎮 Other:
        - Art: Gameplay/Art.md
+       - Bending: Gameplay/Bending.md
        - Cards: Gameplay/Cards.md
+       - Chat System (PLACEHOLDER): Gameplay/Chat.md
        - Housing: Gameplay/Housing.md
        - Pets (PLACEHOLDER): Gameplay/Pets.md
-       - Chat System (PLACEHOLDER): Gameplay/Chat.md
   - Server Related:
        - Resource Pack: ServerRelated/ResourcePack.md
        - Rules: ServerRelated/Rules.md
