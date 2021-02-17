@@ -1,0 +1,163 @@
+# Site Information
+site_name: Rokucraft Wiki
+site_author: Henry#0009
+site_url:
+site_description:
+repo_name: Rokucraft Wiki
+repo_url: https://github.com/Henry055/RokucraftWiki/
+
+# Plugins
+plugins:
+  - search
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - .icons/custom
+  - toc:
+      permalink: '🔗'
+  - meta
+  - admonition
+  - footnotes
+  - codehilite
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed
+  - attr_list
+  - md_in_html
+extra_javascript:
+  - javascripts/extra.js
+extra_css:
+  - stylesheets/extra.css
+
+# Social links
+extra:
+  social:
+    - icon: fontawesome/solid/home
+      link: https://www.rokucraft.com
+      name: Rokucraft's Website
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/7WNFu3v
+      name: Rokucraft's Discord
+    - icon: fontawesome/solid/shopping-cart
+      link: https://rokucraft.craftingstore.net
+      name: Rokucraft's Store
+    - icon: fontawesome/solid/map-marker-alt
+      link: http://map.rokucraft.com:8123
+      name: Rokucraft's Map
+    - icon: fontawesome/brands/github
+      link: https://github.com/Rokucraft
+      name: Rokucraft's Github
+    - icon: fontawesome/solid/globe-americas
+      link: https://www.planetminecraft.com/member/rokucraft/
+      name: Planet Minecraft
+# Currently unused socials
+    #- icon: fontawesome/brands/twitter
+      #link: https://twitter.com/avatarrokucraft
+      #name: Rokucraft's Twitter
+    #- icon: fontawesome/brands/facebook
+      #link: https://www.facebook.com/avatarrokucraft
+      #name: Rokucraft's Facebook Page
+
+# Theme customisation
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  palette:
+    - scheme: slate
+      primary: 
+      accent: amber
+  features:
+    - navigation.tabs
+    - navigation.sections
+    #- navigation.expand
+  font:
+    text: Nunito
+    code: Roboto Mono
+  favicon: assets/images/favicon.ico
+  logo: assets/images/logo.png
+
+# Page Tree
+nav:
+  - Home: index.md
+  - Nations:
+    - 🌊 Water Tribes:
+      - Overview: nations/water/water.md
+      - Societal Ranks: nations/water/waterranks.md
+      - Clans:
+        - How does it work?: nations/water/clansystem.md
+        - Arenqii: nations/water/arenqii.md
+        - Angniku: nations/water/angniku.md
+        - Koalkoaq: nations/water/koalkoaq.md
+        - Heagga: nations/water/heagga.md
+        - Yutu: nations/water/yutu.md
+      - Military: nations/water/watermilitary.md
+    - ⛰ Earth Kingdom:
+      - Overview: nations/earth/earth.md
+      - Societal Ranks: nations/earth/earthranks.md
+      - Legal Systems:
+        - Laws: nations/earth/earthlaws.md
+        - Mayor System: nations/earth/earthmayorsystem.md
+        - Court System: nations/earth/earthcourtsystem.md
+      - Military: nations/earth/earthmilitary.md
+    - 🔥 Fire Nation:
+      - Overview: nations/fire/fire.md
+      - Societal Ranks: nations/fire/fireranks.md
+      - Legal Systems:
+        - Laws: nations/fire/firelaws.md
+        - Royal Cabinet: nations/fire/fireroyalcabinet.md
+        - Govenor System: nations/fire/firegovenorsystem.md
+        - Court System: nations/fire/firecourtsystem.md
+      - Military: nations/fire/firemilitary.md
+    - 💨 Air Collective:
+      - Overview: nations/air/air.md
+      - Societal Ranks: nations/air/airranks.md
+      - Air Council: nations/air/aircouncil.md
+      - Air Guardians: nations/air/airguardians.md
+  - Lore:
+    - 🟡 Artifacts: lore/artifacts.md
+    - 🟢 Diseases: lore/diseases.md
+    - 🟢 Fauna: lore/fauna.md
+    - 🟢 Flora: lore/flora.md
+    - 🟢 Food: lore/food.md
+    - 🔴 Historical Figures: lore/historicalfigures.md
+    - 🟡 Holidays: lore/holidays.md
+    - 🟡🟢 Red Lotus: lore/redlotus.md
+    - 🟡🔴 Religion: lore/religion.md
+    - 🟢 Show Characters: lore/showcharacters.md
+    - 🟡🔴 Spirits: lore/spirits.md
+    - 🟡🟢 Zodiac: lore/zodiac.md
+  - Roleplay:
+    - How To Begin: roleplay/wheretostart.md
+    - Important Information:
+      - Roleplay Guide: roleplay/roleplayguide.md
+      - Roleplay Rules: roleplay/roleplayrules.md
+    - Character Information:
+      - Character Creation (?): roleplay/charactergeneration.md
+      - Character Introductions: roleplay/characterintros.md
+      - Character Applications: roleplay/characterapplications.md
+    - Bending Information:
+      - Mastery: roleplay/mastery.md
+      - Sub-Elements: roleplay/subelements.md
+  - Gameplay:
+    - Bending: gameplay/bending.md
+    - Money:
+       - Auctioning: gameplay/auctioning.md
+       - Bug Catching: gameplay/bugcatching.md
+       - Mining: gameplay/mining.md
+       - Mobs: gameplay/mobs.md
+       - Quests: gameplay/quests.md
+       - Tea Brewing: gameplay/teabrewing.md
+    - Other:
+       - Art: gameplay/art.md
+       - Cards: gameplay/cards.md
+       - Housing: gameplay/housing.md
+       - Pets (PLACEHOLDER): gameplay/pets.md
+       - Chat System (PLACEHOLDER): gameplay/chat.md
+  - Server Related:
+       - Resource Pack: serverrelated/resourcepack.md
+       - Rules: serverrelated/rules.md
+       - Staff: serverrelated/staff.md
