@@ -57,22 +57,21 @@ There are 5 clans, all of them are located in the Southern Water Tribe:
 
 If someone calls for an election after the 4 month period is up and the **current clan leader wins** then they will retain their position and nothing is affected IRP unless the former and new leader want to include an IRP aspect or if it would be part of the clan’s lore.
 
-*Example scenario:*
+??? example "Example scenario:"
 
-- Contender calls for an ooc election.
-- Current leader wins the election.
-    - Option 1: Nothing is affected IRP and the clan leader retains their position as normal.
-    - Option 2: The contender wants to challenge the leader’s position IRP even though they will not succeed.
-- The contender’s character could approach the leader or clan IRP claiming that the current leader is not fit to rule and should be replaced etc.
-- Since the existing leader won the ooc vote they could dismiss/banish/fight/reason with etc the contender IRP to retain their position.
+    - Contender calls for an ooc election.
+    - Current leader wins the election.
+        - Option 1: Nothing is affected IRP and the clan leader retains their position as normal.
+        - Option 2: The contender wants to challenge the leader’s position IRP even though they will not succeed.
+    - The contender’s character could approach the leader or clan IRP claiming that the current leader is not fit to rule and should be replaced etc.
+    - Since the existing leader won the ooc vote they could dismiss/banish/fight/reason with etc the contender IRP to retain their position.
 
 If the **current clan leader loses** then an IRP reason will be made for the new leader to take their place. The reason may vary by clan and **must** be agreed upon by the former leader, new leader, and Chief OOC to make sure that it is lore appropriate and there is no powergaming.
 
-*Example scenario:*
-
-- Contender calls for an ooc election and wins.
-    - Possible Option 1: The old leader steps down/is injured/becomes incapacitated/dies.
-    - Possible Option 2: The new leader attacks/kills/questions the old leader’s position.
+??? example "Example scenario:"
+    - Contender calls for an ooc election and wins.
+        - Possible Option 1: The old leader steps down/is injured/becomes incapacitated/dies.
+        - Possible Option 2: The new leader attacks/kills/questions the old leader’s position.
 * * *
 
 <p class= writingcredit>Written by <b>LegoNerd2014</b></p>
