@@ -2,39 +2,13 @@
 
 The Earth Kingdom is known as the biggest nation out of all four nations. It takes the space of a whole continent and many islands surrounding it. In the past, the Earth Kingdom has been known as a defensive nation. During the Hundred Year War the Earth Kingdom stayed in a constant defensive state, and its main capital Ba Sing Se was not penetrated until the end of the war. After the war, the Earth Kingdom decided to make peace with the Fire Nation, and help rebuild the Air Collective.
 Many of the Earth Kingdom villages are currently left with little resources and many. The provinces of the Earth Kingdom are lead by Mayors and Governors, which are overseen by the Grand Secretariat and the Earth Monarchs. The Earth Kingdom has also let in a new Air Collective village, called Gynaste. This is a new mix of diversity of in the Earth Kingdom.
-
-## History 
-
-During the era of Raava people acquire their earthbending by the lion turtles. The people of this old era lived on top of the lion turtles backs. With the creation of the Avatar, the people of the lion turtles cities began to descend from them and explore the land known as the Earth Kingdom. Being the largest body of land in the world many people explored different areas. This giving each area of the Earth Kingdom a group of people. The that descended from the backs of the lion turtles obtained the power of earth bending, the ability to manipulate earth. From then on, the people of the Earth Kingdom have resided in the great continent.
-
-### Ancient History
-
-After descending the lion turtles back the people of the Earth Kingdom began to settle amongst the vast lands of the continent. Many battles and wars started to break out in the continent. The people of the old Earth Kingdom did not unite under one culture because of how spread out the land mass was, unlike the other nations. In other nations, the cultures prevailed and the people united under it, but not in the Earth Kingdom. In this period of war, two big main cities arose from the ruble. One being, out of the crystal catacombs Ba Sing Se. The other being born out of love, Omashu. Ba Sing Se, the current capital of the Earth Kingdom was not always fortified. It was invaded many times, but eventually it grew in power and strength. The king of Ba Sing Se declared himself the king of the Earth Kingdom, but the kingdom was too big. This is where the other providences and city states of the Earth Kingdom came into play. Other leaders of the Earth Kingdom ruled their terrains, but they did not rule over the entire Earth Kingdom like the Earth King.
-
-### Hundred Year War
-
-Before the Hundred Year War the four nations lived in peace and harmony. Then the Fire Nation became industrialized and set out to kill the next born avatar in the Air Collective. After the death of Avatar Roku, Fire Lord Sozin decided to genocide the Air Nomads. In hope of killing the Avatar, and having his plan to take over the four nations possible. During this hundred year period Avatar Aang was stuck in an iceberg just near the Southern Water Tribe. With the Avatar gone for a hundred years, the Earth Kingdom was invaded countless times. Many Earth Kingdom provinces falling to the Fire Nation, the first being Taku, and later bigger cities such as Omashu and Ba Sing Se. The Fire Nation Military tried countless times to penetrate the capital of Ba Sing Se, but did not succeed until the end of the war. After the war, the Earth Kingdom began to regrow back from the smudge that the left war on the kingdom.
-
-## Culture
-
-The Earth Kingdom being the largest out of the four nations many different cultures were created. No single culture could take over the whole kingdom, just because of the sheer size of the continent. Many trends swept through the Earth Kingdom, some being royal culture, common culture, and sand bender (desert) culture.
-
-### Royal Earth Kingdom
-
-In the Earth Kingdom the royal family created trends for the richer people of the kingdom to follow. The richer people of the Earth Kingdom reside in estates and large houses. They may even have a known family name that is spread around the world. Being like this, the richer people in the Earth Kingdom create their own culture of business and luxury. Most being able to invest in their own companies and creations. Some even tend to get high into the government to feel closer to the monarchs of the kingdom.
-
-### Commoners
-
-The common people of the Earth Kingdom live in the middle-lower rings of Ba Sing Se and in just other cities in general. Most of these people work in a hard labor job, working hard for their money. These people of the Earth Kingdom are more open and show more hospitality than their counterparts. The common people may not always make a great change in the kingdom, but they hold it together in ways that the government cannot. Being this majority party creates lifestyles that can be different than the richer people of the kingdom.
-
-### Sand Bender (Desert)
-
-The sandbenders in the Earth Kingdom are so diversely different than the other majority in the kingdom that they obtain their own name and culture. Most living in areas around the desert, like Misty Palms Oasis. They wear clothing that travels all the way up their head and around their body. This protects them from sand and the heat of the desert. They create a sub group to earthbending, making sand bending of that degree rarer in the richer parts of the Earth Kingdom. They are also given the bad name of being thieves in the Earth Kingdom.
+* * *
 
 ## Present
 
 During the Earth and Fire war Earth Queen Kyo faced a lot of pressure, once a treaty was met she decided to step down.
 After Earth Queen Kyo stepped down from the throne she looked to the spirits to announce the new monarch of the Kingdom. She decided to coronate the current Grand Secretariat, Habien Hanri. Habien Hanri's coronation took place at Fong's Fortress. He was crowned as the 55th Earth monarch of the Kingdom, now he currently leads the Earth Kingdom to try and bring prosperity to the nation.
+* * *
 
 ## Government
 
@@ -57,8 +31,39 @@ The land of the Earth Kingdom is split into city states and provinces. For insta
     Governors & Mayors<br>
     **Capital:**
     Ba Sing Se<br></font>
+* * *
 
-## Events
+## Culture
+
+The Earth Kingdom being the largest out of the four nations many different cultures were created. No single culture could take over the whole kingdom, just because of the sheer size of the continent. Many trends swept through the Earth Kingdom, some being royal culture, common culture, and sand bender (desert) culture.
+
+### Royal Earth Kingdom
+
+In the Earth Kingdom the royal family created trends for the richer people of the kingdom to follow. The richer people of the Earth Kingdom reside in estates and large houses. They may even have a known family name that is spread around the world. Being like this, the richer people in the Earth Kingdom create their own culture of business and luxury. Most being able to invest in their own companies and creations. Some even tend to get high into the government to feel closer to the monarchs of the kingdom.
+
+### Commoners
+
+The common people of the Earth Kingdom live in the middle-lower rings of Ba Sing Se and in just other cities in general. Most of these people work in a hard labor job, working hard for their money. These people of the Earth Kingdom are more open and show more hospitality than their counterparts. The common people may not always make a great change in the kingdom, but they hold it together in ways that the government cannot. Being this majority party creates lifestyles that can be different than the richer people of the kingdom.
+
+### Sand Bender (Desert)
+
+The sandbenders in the Earth Kingdom are so diversely different than the other majority in the kingdom that they obtain their own name and culture. Most living in areas around the desert, like Misty Palms Oasis. They wear clothing that travels all the way up their head and around their body. This protects them from sand and the heat of the desert. They create a sub group to earthbending, making sand bending of that degree rarer in the richer parts of the Earth Kingdom. They are also given the bad name of being thieves in the Earth Kingdom.
+* * *
+
+## History 
+
+During the era of Raava people acquire their earthbending by the lion turtles. The people of this old era lived on top of the lion turtles backs. With the creation of the Avatar, the people of the lion turtles cities began to descend from them and explore the land known as the Earth Kingdom. Being the largest body of land in the world many people explored different areas. This giving each area of the Earth Kingdom a group of people. The that descended from the backs of the lion turtles obtained the power of earth bending, the ability to manipulate earth. From then on, the people of the Earth Kingdom have resided in the great continent.
+
+### Ancient History
+
+After descending the lion turtles back the people of the Earth Kingdom began to settle amongst the vast lands of the continent. Many battles and wars started to break out in the continent. The people of the old Earth Kingdom did not unite under one culture because of how spread out the land mass was, unlike the other nations. In other nations, the cultures prevailed and the people united under it, but not in the Earth Kingdom. In this period of war, two big main cities arose from the ruble. One being, out of the crystal catacombs Ba Sing Se. The other being born out of love, Omashu. Ba Sing Se, the current capital of the Earth Kingdom was not always fortified. It was invaded many times, but eventually it grew in power and strength. The king of Ba Sing Se declared himself the king of the Earth Kingdom, but the kingdom was too big. This is where the other providences and city states of the Earth Kingdom came into play. Other leaders of the Earth Kingdom ruled their terrains, but they did not rule over the entire Earth Kingdom like the Earth King.
+
+### Hundred Year War
+
+Before the Hundred Year War the four nations lived in peace and harmony. Then the Fire Nation became industrialized and set out to kill the next born avatar in the Air Collective. After the death of Avatar Roku, Fire Lord Sozin decided to genocide the Air Nomads. In hope of killing the Avatar, and having his plan to take over the four nations possible. During this hundred year period Avatar Aang was stuck in an iceberg just near the Southern Water Tribe. With the Avatar gone for a hundred years, the Earth Kingdom was invaded countless times. Many Earth Kingdom provinces falling to the Fire Nation, the first being Taku, and later bigger cities such as Omashu and Ba Sing Se. The Fire Nation Military tried countless times to penetrate the capital of Ba Sing Se, but did not succeed until the end of the war. After the war, the Earth Kingdom began to regrow back from the smudge that the left war on the kingdom.
+* * *
+
+## Past Events
 
 ### Earth Kingdom and Fire Nation War
 
@@ -75,3 +80,4 @@ In a war meeting consisting of high up officials of the Earth Kingdom the Queen 
 ### Jehung Attack
 
 In response to the Ember Island attack the Fire Nation decided to try and invade the Earth Kingdom city Jehung. This was the second battle of the ongoing war, though this time the battle was intervened by a third party, Avatar Sialuk. The Avatar got in-between the fighting of the Earth Kingdom and Fire Nation, and stopped the battle before it could get even more escalated. In response, the Earth Queen order Grand Secretariat Ako to attack her, but she refused. This refusal of an order from the Queen lead to her immediate termination, and Ako was banished from the Kingdom. After the battle, the Queen put her new Grand Secretariat Habien Hanri into work, he was previously serving as General in the Earth Kingdom Military. Now they try to rebuild the Earth Kingdom.
+* * *
