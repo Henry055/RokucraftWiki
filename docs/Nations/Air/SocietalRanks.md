@@ -34,4 +34,6 @@
 **Senior Guardian** - Senior Guardians are Air Guardians that have shown incredible devotion, and work ethic. Senior Guardians are hand picked by the High Guardian, and they sit above standard Air Guardians. Senior Guardian responsibilities include: Holding trainings for both Air Scouts and Air Guardians; Commanding Air Guardian regiments in battle; as well as working closely with the High Guardian to ensure the protection of the temples. Senior Guardians are also able to accept Air Scout applications.
 
 <center>*Must be an Air Guardian who has shown exceptional performance, and has contributed greatly to the Air Collective as a whole.*</center>
+
+**High Guardian** - The High Guardian is the commander of all Air Guardians. They serve to teach all Guardians, as well as lead lead them in battle. Conversely, the High Guardian must travel from temple to temple to ensure that all is safe.
 * * *
