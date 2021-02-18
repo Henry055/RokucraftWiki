@@ -120,18 +120,13 @@ nav:
       - Societal Ranks: Nations/Air/SocietalRanks.md
       - Air Council: Nations/Air/Council.md
   - Lore:
-    - 🟡 Artifacts: Lore/artifacts.md
-    - 🟢 Diseases: Lore/diseases.md
-    - 🟢 Fauna: Lore/fauna.md
-    - 🟢 Flora: Lore/flora.md
-    - 🟢 Food: Lore/food.md
-    - 🔴 Historical Figures: Lore/historicalfigures.md
-    - 🟡 Holidays: Lore/holidays.md
-    - 🟢 Red Lotus: Lore/redlotus.md
-    - 🟡🔴 Religion: Lore/religion.md
-    - 🟢🟡 Show Characters: Lore/showcharacters.md
-    - 🟡🔴 Spirits: Lore/spirits.md
-    - 🟡🟢 Zodiac: Lore/zodiac.md
+    - Diseases: Lore/diseases.md
+    - Fauna: Lore/fauna.md
+    - Flora: Lore/flora.md
+    - Food: Lore/food.md
+    - Red Lotus: Lore/redlotus.md
+    - Show Characters: Lore/showcharacters.md
+    - Zodiac: Lore/zodiac.md
   - Roleplay:
     - How To Begin: Roleplay/HowToBegin.md
     - Important Information:
