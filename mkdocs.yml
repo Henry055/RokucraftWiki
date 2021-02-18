@@ -81,6 +81,8 @@ theme:
     code: Roboto Mono
   favicon: assets/images/favicon.ico
   logo: assets/images/logo.png
+  icon:
+    repo: fontawesome/brands/github
 
 # Page Tree
 nav:
