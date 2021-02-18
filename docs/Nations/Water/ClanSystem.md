@@ -1,4 +1,4 @@
-# The Southern Water Tribe's Clan System
+# Water Tribe Clan System
 
 **This page explains the system of clans in the Southern Water Tribe as well as the process of running for and electing the leader of a clan.**
 * * *
