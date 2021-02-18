@@ -84,7 +84,7 @@ All-purpose knife used for skinning and cleaning animals, weapon and trimming bl
 The Yutu use Horns to make announcements to the clan for example to indicate a snowstorm is coming. The horn blasts are taught to every member from a young age and is something every member of the clan is expected to know the meaning of.
 
 - **1 blast:** Gather near the Town Hall
-- **2 Blasts:** snow storm Incoming
+- **2 Blasts:** Snow storm Incoming
 - **3 Blasts:** Attack Incoming
 - **1 short blast before 1 long:** Celebration
 - **1 long low blast:** Mourning

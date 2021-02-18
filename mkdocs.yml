@@ -15,7 +15,7 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
       options:
         custom_icons:
-          - .icons/custom
+          - overrides/.icons
   - toc:
       permalink: '🔗'
   - pymdownx.tasklist:
@@ -88,7 +88,7 @@ theme:
 nav:
   - Home: index.md
   - Nations:
-    - 🌊Water Tribes:
+    - 🌊 Water Tribes:
       - Overview: Nations/Water/WaterTribe.md
       - Societal Ranks: Nations/Water/SocietalRanks.md
       - Clans:
@@ -99,7 +99,7 @@ nav:
         - Heagga: Nations/Water/Heagga.md
         - Yutu: Nations/Water/Yutu.md
       - Military: Nations/Water/Military.md
-    - ⛰ Earth Kingdom:
+    - 🏔️ Earth Kingdom:
       - Overview: Nations/Earth/EarthKingdom.md
       - Societal Ranks: Nations/Earth/SocietalRanks.md
       - Legal Systems:
