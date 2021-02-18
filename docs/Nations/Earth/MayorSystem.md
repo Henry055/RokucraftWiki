@@ -1,4 +1,5 @@
 # Earth Kingdom Mayor System
+* * *
 
 These are the current villages/cities where you may run for Mayor.
 

@@ -1,4 +1,5 @@
 # Earth Kingdom Court System
+* * *
 
 ## The Court Procedure
 
@@ -109,4 +110,3 @@ Seeking redemption is an endurance test. The guilty will be put under a suspende
 
 4. You may only speak when you have raised from your chair. The Judge will address you when it is your turn to present your argument. Do not interrupt the Judge when they are talking in any such scenario.
 * * *
-

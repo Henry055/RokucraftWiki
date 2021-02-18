@@ -21,6 +21,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - meta
+  - abbr
+  - pymdownx.snippets
   - admonition
   - footnotes
   - codehilite
