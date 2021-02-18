@@ -58,7 +58,7 @@ If someone was to break their crystal then they are to be banished from the trib
 
 ## Holidays
 
-### The Night of Yukara
+<font size=5><ins>The Night of Yukara<ins></font>
 
 There is one night of the year where the stars in the sky are at their brightest, and dazzling meteors fly through the pitch dark. This night always falls on the first full moon of January, and is called the night of Yukara by the Angniku people, named after the moonstone who discovered that this night was the brightest of them all in the first place.
 
