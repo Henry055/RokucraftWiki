@@ -1,6 +1,6 @@
 # Guide to Roleplay
 
-Roleplay is another way for players to experience our server and get immersed in the world we have built. Although as a beginner it can seem confusing and hard to understand, so we made this guide to help you learn and become a capable roleplayer! At the end of this you should be able to understand **roleplay terminology**, how to act out **combat roleplay** with dice rolls and **more**! We recommend you read the [how to begin](HowToBegin.md) page first if you're new to roleplay.
+Roleplay is another way for players to experience our server and get immersed in the world we have built. As a beginner it can seem confusing and hard to understand, so we made this guide to help you learn and become a capable roleplayer! At the end of this you should be able to understand **roleplay terminology**, how to act out **combat roleplay** with dice rolls and **more**! We recommend you read the [how to begin](HowToBegin.md) page first if you're new to roleplay.
 * * *
 
 ## Character Terms
@@ -11,29 +11,27 @@ Roleplay is another way for players to experience our server and get immersed in
 
 **OC** - This stands for 'Original Character'. Your OC is the character you have created to roleplay as.
 
-**IC** - THis stands for 'In Character'. This refers to anything that is happening in roleplay as characters. It is the opposite of OOC.
+**IRP** - This stands for 'In Roleplay'. This refers to anything that is happening in roleplay as characters. It is the opposite of OOC.
 
-**NPC** - This stands for 'Non-Player Character'. NPC's can be made by anyone to provide interesting backgrounds, such as making a random citizen in a village your OC is in. For a character to be an NPC they usually only appear one time and aren't big characters or they aren't actively played by any one roleplayer, meaning anyone can play them.
-
-**Throwaway** - Throwaways are very similar to NPC's but they're a bit more specific. Sometimes another player might need a doctor for one of their roleplays so you could always play a 'throwaway' character who will be there for this situation and then not be played afterwards, some people have recurring throwaways who only appear in situations they're needed in and aren't played elsewhere. It's important to make sure throwaways are realistic to prevent any powergaming or metagaming. (These terms will be explained below.)
+**Throwaway** - Throwaways are small characters that are often made for interesting backgrounds or situations where a specific role is needed. Sometimes another player might need a doctor for one of their roleplays so you could always play a 'throwaway' character who will be there for this situation and then not be played afterwards, some people have recurring throwaways who only appear in situations they're needed in and aren't played elsewhere. It's important to make sure throwaways are realistic to prevent any powergaming or metagaming. (These terms will be explained below.)
 * * *
 
 ## Roleplay Terms
 
-**Powerplaying** - This is a term used to describe a situation where one person's character is controlling another player's character without their permission. This is **not allowed** on our server because we want everyone to be able to shape out their characters lives without other people being able to unwantedly control it.
+**Powergaming** - This is a term used to describe a situation where one person's character is controlling another player's character without their permission. This is **not allowed** because you are only allowed control your own character
 
 ??? example "Example of Powergaming"
     **'My character threw a rock at your head and killed you'** - This would be powergaming because you just killed someone's character without giving them any chance to do anything, such as dodge the attack and have a chance to survive. Situations which result in some sort of control over another person's character must be agreed by the roleplayers involved.
 
-**Metagaming** - This is a term used when someone has their character know things they never found out in roleplay. This is **not allowed** on our server because it is unrealistic and can easily be used to ruin other peoples storylines and general immersion.
+**Metagaming** - This is a term used when someone has their character know things that the character did not find out in roleplay. This is **not allowed** as it can be used to ruin other players' storylines and general immersion and is essentially roleplay cheating.
 
 ??? example "Example of Metagaming"
-    **There's a government meeting and they discuss a new law. I read the meeting out of character and roleplay my character telling people about the new law.** - This would be metagaming as my character wasn't in that meeting so even though I know about it out of character I can't have my roleplay character know this knowledge without actually finding it out in roleplay.
+    **The Fire Lord has died and it's been kept in secret so the Fire Nation doesn't go into mass panic. I know this information out of character and go tell other characters about it in roleplay without my actual character finding out about the death.** - This would be metagaming as my character doesn't know the Fire Lord has died so even though I know about it out of character I can't have my roleplay character know this knowledge without actually finding it out in roleplay.
 
-**Godmodding** - This term is used for characters who have unrealistic powers and skills they didn't work for. This is **not allowed** on our server because we don't want characters knowing rare abilities without learning them. You can have a character who is very strong and knows difficult enhanced skills but it's important that they still have flaws and that these skills were all worked for by the roleplayer.
+**Godmodding** - This term is used for characters who have unrealistic powers and skills they didn't work for. This is **not allowed** because you have to work through roleplay to achieve rare abilities or master something. You can find the information about how to do this for each nation on our [mastery](Mastery.md) page. It is important that characters work for their skills and still have flaws.
 
 ??? example "Example of Godmodding"
-    **My character knows combustion bending and how to lightning bend but he has never spent time training for it. He also has a magic compass that tells him when people are trying to hurt him.** - This would be Godmodding because the character knows 2 extremely complex and rare skills which they haven't worked for and also has a highly unrealistic item that gives them an extreme advantage over others.
+    **My character is a master firebender who knows combustion bending and how to lightning bend. He also is really good at telling when people are lying so it's impossible for people to plot against him.** - This would be Godmodding because the character is a master and knows extremely complex and rare skills which they haven't worked for which gives them an extreme advantage over others.
 
 **Mary Sue** - This is a term for a character who has no flaws at all and is absolutely perfect. This is **not allowed** on our server because we want to keep roleplay realistic and fair so having a character without flaws wouldn't abide by that.
 
@@ -59,7 +57,7 @@ Roleplay is another way for players to experience our server and get immersed in
 ## Combat Roleplay & Rolls
 
 ### General Combat
-Combat Roleplay is something people find themselves in a lot. It's a really fun way to have your character get through fights and learn combat without it being unfair. Acting out combat roleplay can be confusing at the start but this should teach you exactly how to do it. It's important you don't break the rules on godmodding and powerplaying as that would completely ruin the fairness of combat roleplay.
+Combat Roleplay is something people find themselves in a lot. It's a really fun way to have your character get through fights and learn combat without it being unfair. Acting out combat roleplay can be confusing at the start but this should teach you exactly how to do it. It's important you don't break the rules on godmodding and powergaming as that would completely ruin the fairness of combat roleplay.
 
 This means whenever you are doing combat roleplay and haven't got permission to directly kill or badly hurt someone you leave room for them to react, so instead of going *'I hit and pierce you with a really sharp ice spike.'* you would say *'I lift a sharp ice spike and attempt to hit you in the shoulder with it'* this leaves room for the other person to evade, dodge and react in any way they want, no matter how strong your character is you are never allowed to powergame without the other player's permission. Sometimes this can lead to combat roleplay lasting a very long time if both players are keen on not letting their character get hurt which is why some people prefer to use rolls.
 
