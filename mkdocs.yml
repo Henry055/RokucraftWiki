@@ -123,22 +123,13 @@ nav:
       - Societal Ranks: Nations/Air/SocietalRanks.md
       - Air Council: Nations/Air/Council.md
       - Mastery & Sub-elements: Nations/Air/Mastery.md
-  #- Lore:
-    #- Diseases: Lore/diseases.md
-    #- Fauna: Lore/fauna.md
-    #- Flora: Lore/flora.md
-    #- Food: Lore/food.md
-    #- Red Lotus: Lore/redlotus.md
-    #- Show Characters: Lore/showcharacters.md
-    #- Zodiac: Lore/zodiac.md
   - Roleplay:
-    - How To Begin: Roleplay/HowToBegin.md
+    - Creating A Character: Roleplay/CharacterCreation.md
     - ❗Important Information:
       - Roleplay Guide: Roleplay/RoleplayGuide.md
       - Roleplay Rules: Roleplay/RoleplayRules.md
       - Roleplay Bot: Roleplay/RoleplayBot.md
     - 💳 Character Information:
-      - Character Creation (?): Roleplay/CharacterGeneration.md
       - Character Introductions: Roleplay/CharacterIntroductions.md
       - Character Applications: Roleplay/CharacterApplications.md
   - Gameplay:
@@ -160,3 +151,11 @@ nav:
        - Resource Pack: ServerRelated/ResourcePack.md
        - Rules: ServerRelated/Rules.md
        - Staff: ServerRelated/Staff.md
+  #- Lore:
+    #- Diseases: Lore/diseases.md
+    #- Fauna: Lore/fauna.md
+    #- Flora: Lore/flora.md
+    #- Food: Lore/food.md
+    #- Red Lotus: Lore/redlotus.md
+    #- Show Characters: Lore/showcharacters.md
+    #- Zodiac: Lore/zodiac.md
