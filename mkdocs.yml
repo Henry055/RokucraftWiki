@@ -100,6 +100,7 @@ nav:
         - Koalkoaq: Nations/Water/Koalkoaq.md
         - Heagga: Nations/Water/Heagga.md
         - Yutu: Nations/Water/Yutu.md
+      - Mastery & Sub-elements: Nations/Water/Mastery.md
     - 🏔️ Earth Kingdom:
       - Overview: Nations/Earth/EarthKingdom.md
       - Societal Ranks: Nations/Earth/SocietalRanks.md
@@ -107,6 +108,7 @@ nav:
         - Laws: Nations/Earth/Laws.md
         - Mayor System: Nations/Earth/MayorSystem.md
         - Court System: Nations/Earth/CourtSystem.md
+      - Mastery & Sub-elements: Nations/Earth/Mastery.md
     - 🔥 Fire Nation:
       - Overview: Nations/Fire/FireNation.md
       - Societal Ranks: Nations/Fire/SocietalRanks.md
@@ -115,40 +117,39 @@ nav:
         - Royal Cabinet: Nations/Fire/RoyalCabinet.md
         - Govenor System: Nations/Fire/GovenorSystem.md
         - Court System: Nations/Fire/CourtSystem.md
+      - Mastery & Sub-elements: Nations/Fire/Mastery.md
     - 💨 Air Collective:
       - Overview: Nations/Air/AirCollective.md
       - Societal Ranks: Nations/Air/SocietalRanks.md
       - Air Council: Nations/Air/Council.md
-  - Lore:
-    - Diseases: Lore/diseases.md
-    - Fauna: Lore/fauna.md
-    - Flora: Lore/flora.md
-    - Food: Lore/food.md
-    - Red Lotus: Lore/redlotus.md
-    - Show Characters: Lore/showcharacters.md
-    - Zodiac: Lore/zodiac.md
+      - Mastery & Sub-elements: Nations/Air/Mastery.md
+  #- Lore:
+    #- Diseases: Lore/diseases.md
+    #- Fauna: Lore/fauna.md
+    #- Flora: Lore/flora.md
+    #- Food: Lore/food.md
+    #- Red Lotus: Lore/redlotus.md
+    #- Show Characters: Lore/showcharacters.md
+    #- Zodiac: Lore/zodiac.md
   - Roleplay:
     - How To Begin: Roleplay/HowToBegin.md
-    - Important Information:
+    - ❗Important Information:
       - Roleplay Guide: Roleplay/RoleplayGuide.md
       - Roleplay Rules: Roleplay/RoleplayRules.md
       - Roleplay Bot: Roleplay/RoleplayBot.md
-    - Character Information:
+    - 💳 Character Information:
       - Character Creation (?): Roleplay/CharacterGeneration.md
       - Character Introductions: Roleplay/CharacterIntroductions.md
       - Character Applications: Roleplay/CharacterApplications.md
-    - Bending Information:
-      - Mastery: Roleplay/Mastery.md
-      - Sub-Elements: Roleplay/SubElements.md
   - Gameplay:
-    - 💵 Money:
+    - Money:
        - Auctioning: Gameplay/Auctioning.md
        - Bug Catching: Gameplay/BugCatching.md
        - Mining: Gameplay/Mining.md
        - Mobs: Gameplay/Mobs.md
        - Quests: Gameplay/Quests.md
        - Tea Brewing: Gameplay/TeaBrewing.md
-    - 🎮 Other:
+    - Other:
        - Art: Gameplay/Art.md
        - Bending: Gameplay/Bending.md
        - Cards: Gameplay/Cards.md

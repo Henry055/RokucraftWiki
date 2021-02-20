@@ -12,7 +12,9 @@
 
 <font size=5> Our wiki sections</font>
 
-* **Lore -** <font size=4>Our lore section is where you can find many things to do with Rokucraft roleplay, such as historical events, information on each nation and more!</font>
+* **Nations -** <font size=4>Our nations section is where you can find many things to do with each individual nation, such as legal systems, how to master elements in roleplay and more!</font>
+
+* **Roleplay -** <font size=4>Our roleplay section is where you can find many things to do with how roleplay works on our server, such as roleplay guides, roleplay rules and more!</font>
 
 * **Gameplay -** <font size=4>Our gameplay section is where you can find many things to do with Rokucraft gameplay, such as bending, how to make money and more ways to have fun on our server!</font>
 
@@ -20,4 +22,4 @@
 
 <br>
 
-<font size=3> Large parts of this wiki were written by collaborators in our community. Check them out [here](collaborators.md).</font>
+<font size=3> Large parts of this wiki were written by collaborators in our community. Check them out [here](Collaborators.md).</font>
