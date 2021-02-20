@@ -2,25 +2,25 @@
 
 <font size=4>Want to learn how to take down bandits and other mobs? Here's a step-by-step tutorial on how to do it. Enjoy!</font>
 
-<p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/2021-01-13_09.30.27_1610538754.png"
+<p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/Mobs1_1613834825.png"
      width="600"
      height="300"></p>
 
 <font size=4>To start your mob hunting journey speak to the Mob Trapper in Harbor Town. Click him to open the Mob GUI.</font>
 
-<p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/Screenshot+2021-01-13+at+09.31.36_1610538783.png"
+<p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/Mobs2_1613834833.png"
      width="600"
      height="300"></p>
 
 <font size=4>In this GUI you will be able to see a variety of mobs our server has. You will be able to see the difficulty of each mob. Usually the more difficult the mob is the better reward you get! Click on the mob you want to go hunt and you will be instantly warped to their location.</font>
 
-<p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/2021-01-13_11.54.52_1610539541.png"
+<p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/Mobs3_1613834839.png"
      width="600"
      height="300"></p>
 
 <font size=4>Now the hunt begins! Get out your bending wand and begin fighting. When you kill mobs they will drop various loot items which can be sold to NPC's such as the Sheriff.</font>
 
-<p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/2021-01-13_11.57.05_1610539093.png"
+<p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/Mobs4_1613834845.png"
      width="600"
      height="300"></p>
 
