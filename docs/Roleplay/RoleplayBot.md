@@ -1,6 +1,6 @@
 # Roleplay Discord Bot
 
-Currently all our nation discord server use the **Jinkaku** bot for roleplaying as your characters. Here's a walkthrough on how to use it to set up a character and speak as them! *(You don't have to use this bot when roleplaying on discord,* ***it's completely optional****).*
+Currently all our nation discord servers use the **Jinkaku** bot for roleplaying as your characters. Here's a walkthrough on how to use it to set up a character and speak as them! *(You don't have to use this bot when roleplaying on discord,* ***it's completely optional****).*
 * * *
 
 ## Creating a Character
