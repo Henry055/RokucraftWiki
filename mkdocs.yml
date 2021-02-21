@@ -1,8 +1,7 @@
 # Site Information
 site_name: Rokucraft Wiki
 site_author: Henry#0009
-site_url:
-site_description:
+site_description: Rokucraft's Official Wiki
 repo_name: Rokucraft Wiki
 repo_url: https://github.com/Henry055/RokucraftWiki/
 
@@ -124,27 +123,28 @@ nav:
       - Air Council: nations/air/council.md
       - Mastery & Sub-elements: nations/air/mastery.md
   - Roleplay:
-    - Important Information:
+    - ❓ Important Information:
       - Roleplay Guide: roleplay/roleplay-guide.md
       - Roleplay Rules: roleplay/roleplay-rules.md
       - Roleplay Bot: roleplay/roleplay-bot.md
-    - Character Information:
+    - 📝 Character Information:
       - Character Introductions: roleplay/character-introductions.md
       - Character Applications: roleplay/character-applications.md
   - Gameplay:
-    - Money:
+    - 🗺️ Exploration:
+      - Bug Catching: gameplay/bug-catching.md
+      - Housing: gameplay/housing.md
+      - Mobs: gameplay/mobs.md
+      - Quests: gameplay/quests.md
+    - 💴 Money:
        - Auctioning: gameplay/auctioning.md
-       - Bug Catching: gameplay/bug-catching.md
        - Mining: gameplay/mining.md
-       - Mobs: gameplay/mobs.md
-       - Quests: gameplay/quests.md
        - Tea Brewing: gameplay/tea-brewing.md
-    - Other:
+    - ✨ Other:
        - Art: gameplay/art.md
        - Bending: gameplay/bending.md
        - Cards: gameplay/cards.md
        - Chat System: gameplay/chat-system.md
-       - Housing: gameplay/housing.md
        - Pets: gameplay/pets.md
   - Server Related:
        - Resource Pack: server-related/resource-pack.md

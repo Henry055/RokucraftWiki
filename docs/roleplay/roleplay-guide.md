@@ -1,6 +1,6 @@
 # Guide to Roleplay
 
-Roleplay is another way for players to experience our server and get immersed in the world we have built. As a beginner it can seem confusing and hard to understand, so we made this guide to help you learn and become a capable roleplayer! At the end of this you should be able to understand **roleplay terminology**, how to act out **combat roleplay** with dice rolls and **more**! We recommend you read the [creating a character](creating-a-character.md) page first if you're new to roleplay.
+Roleplay is another way for players to experience our server and get immersed in the world we have built. As a beginner it can seem confusing and hard to understand, so we made this guide to help you learn and become a capable roleplayer! At the end of this you should be able to understand **roleplay terminology**, how to act out **combat roleplay** with dice rolls and **more**!
 * * *
 
 ## Character Terms
