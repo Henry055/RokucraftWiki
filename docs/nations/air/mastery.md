@@ -42,7 +42,7 @@ Some skills that have been developed by the monks are not as complex as sub-bend
 ### Requirements
 
 - [x] In order to apply for a sub-bending, a character application is required.
-- [x] To achieve a special skill, all you need to do is to find a master and learn it from them. (No character app required, although useful)
+- [x] To achieve a special skill, all you need to do is to find a master and learn it from them. **(No character app required, although useful)**
 
 <center>*** For more information on how to achieve a certain skill or bending, please contact the Nation Leader.***</center>
 * * *
