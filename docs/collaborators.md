@@ -8,6 +8,7 @@
 * Habi
 * Henry
 * Kynnad
+* Lego
 * River
 * Tae
 * SteelWoolSheep
