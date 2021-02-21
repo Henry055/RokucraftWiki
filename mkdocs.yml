@@ -91,71 +91,64 @@ nav:
   - Home: index.md
   - Nations:
     - 🌊 Water Tribes:
-      - Overview: Nations/Water/WaterTribe.md
-      - Societal Ranks: Nations/Water/SocietalRanks.md
+      - Overview: nations/water/water-tribe.md
+      - Societal Ranks: nations/water/societal-ranks.md
       - Clans:
-        - Clan System: Nations/Water/ClanSystem.md
-        - Arenqii: Nations/Water/Arenqii.md
-        - Angniku: Nations/Water/Angniku.md
-        - Koalkoaq: Nations/Water/Koalkoaq.md
-        - Heagga: Nations/Water/Heagga.md
-        - Yutu: Nations/Water/Yutu.md
-      - Mastery & Sub-elements: Nations/Water/Mastery.md
+        - Clan System: nations/water/clan-system.md
+        - Arenqii: nations/water/arenqii-clan.md
+        - Angniku: nations/water/angniku-clan.md
+        - Koalkoaq: nations/water/koalkoaq-clan.md
+        - Heagga: nations/water/heagga-clan.md
+        - Yutu: nations/water/yutu-clan.md
+      - Mastery & Sub-elements (PLACEHOLDER): nations/water/mastery.md
     - 🏔️ Earth Kingdom:
-      - Overview: Nations/Earth/EarthKingdom.md
-      - Societal Ranks: Nations/Earth/SocietalRanks.md
+      - Overview: nations/earth/earth-kingdom.md
+      - Societal Ranks: nations/earth/societal-ranks.md
       - Legal Systems:
-        - Laws: Nations/Earth/Laws.md
-        - Mayor System: Nations/Earth/MayorSystem.md
-        - Court System: Nations/Earth/CourtSystem.md
-      - Mastery & Sub-elements: Nations/Earth/Mastery.md
+        - Laws: nations/earth/laws.md
+        - Mayor System: nations/earth/mayor-system.md
+        - Court System: nations/earth/court-system.md
+      - Mastery & Sub-elements (PLACEHOLDER): nations/earth/mastery.md
     - 🔥 Fire Nation:
-      - Overview: Nations/Fire/FireNation.md
-      - Societal Ranks: Nations/Fire/SocietalRanks.md
+      - Overview: nations/fire/fire-nation.md
+      - Societal Ranks: nations/fire/societal-ranks.md
       - Legal Systems:
-        - Laws: Nations/Fire/Laws.md
-        - Royal Cabinet: Nations/Fire/RoyalCabinet.md
-        - Govenor System: Nations/Fire/GovenorSystem.md
-        - Court System: Nations/Fire/CourtSystem.md
-      - Mastery & Sub-elements: Nations/Fire/Mastery.md
+        - Laws: nations/fire/laws.md
+        - Royal Cabinet: nations/fire/royal-cabinet.md
+        - Govenor System: nations/fire/govenor-system.md
+        - Court System: nations/fire/court-system.md
+      - Mastery & Sub-elements (PLACEHOLDER): nations/fire/mastery.md
     - 💨 Air Collective:
-      - Overview: Nations/Air/AirCollective.md
-      - Societal Ranks: Nations/Air/SocietalRanks.md
-      - Air Council: Nations/Air/Council.md
-      - Mastery & Sub-elements: Nations/Air/Mastery.md
+      - Overview (PLACEHOLDER): nations/air/air-collective.md
+      - Societal Ranks: nations/air/societal-ranks.md
+      - Air Council: nations/air/council.md
+      - Mastery & Sub-elements (PLACEHOLDER): nations/air/mastery.md
   - Roleplay:
-    - Creating A Character: Roleplay/CharacterCreation.md
+    - Creating A Character (PLACEHOLDER): roleplay/creating-a-character.md
     - ❗Important Information:
-      - Roleplay Guide: Roleplay/RoleplayGuide.md
-      - Roleplay Rules: Roleplay/RoleplayRules.md
-      - Roleplay Bot: Roleplay/RoleplayBot.md
+      - Roleplay Guide: roleplay/roleplay-guide.md
+      - Roleplay Rules (PLACEHOLDER): roleplay/roleplay-rules.md
+      - Roleplay Bot: roleplay/roleplay-bot.md
     - 💳 Character Information:
-      - Character Introductions: Roleplay/CharacterIntroductions.md
-      - Character Applications: Roleplay/CharacterApplications.md
+      - Character Introductions (WIP): roleplay/character-introductions.md
+      - Character Applications (PLACEHOLDER): roleplay/character-applications.md
   - Gameplay:
     - Money:
-       - Auctioning: Gameplay/Auctioning.md
-       - Bug Catching: Gameplay/BugCatching.md
-       - Mining: Gameplay/Mining.md
-       - Mobs: Gameplay/Mobs.md
-       - Quests: Gameplay/Quests.md
-       - Tea Brewing: Gameplay/TeaBrewing.md
+       - Auctioning: gameplay/auctioning.md
+       - Bug Catching: gameplay/bug-catching.md
+       - Mining: gameplay/mining.md
+       - Mobs: gameplay/mobs.md
+       - Quests: gameplay/quests.md
+       - Tea Brewing: gameplay/tea-brewing.md
     - Other:
-       - Art: Gameplay/Art.md
-       - Bending: Gameplay/Bending.md
-       - Cards: Gameplay/Cards.md
-       - Chat System (PLACEHOLDER): Gameplay/Chat.md
-       - Housing: Gameplay/Housing.md
-       - Pets (PLACEHOLDER): Gameplay/Pets.md
+       - Art: gameplay/art.md
+       - Bending: gameplay/bending.md
+       - Cards: gameplay/cards.md
+       - Chat System (PLACEHOLDER): gameplay/chat-system.md
+       - Housing: gameplay/housing.md
+       - Pets (PLACEHOLDER): gameplay/pets.md
   - Server Related:
-       - Resource Pack: ServerRelated/ResourcePack.md
-       - Rules: ServerRelated/Rules.md
-       - Staff: ServerRelated/Staff.md
-  #- Lore:
-    #- Diseases: Lore/diseases.md
-    #- Fauna: Lore/fauna.md
-    #- Flora: Lore/flora.md
-    #- Food: Lore/food.md
-    #- Red Lotus: Lore/redlotus.md
-    #- Show Characters: Lore/showcharacters.md
-    #- Zodiac: Lore/zodiac.md
+       - Resource Pack: server-related/resource-pack.md
+       - Rules: server-related/rules.md
+       - FAQ (PLACEHOLDER): server-related/frequently-asked-questions.md
+       - Staff: server-related/staff.md

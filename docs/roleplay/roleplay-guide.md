@@ -1,6 +1,6 @@
 # Guide to Roleplay
 
-Roleplay is another way for players to experience our server and get immersed in the world we have built. As a beginner it can seem confusing and hard to understand, so we made this guide to help you learn and become a capable roleplayer! At the end of this you should be able to understand **roleplay terminology**, how to act out **combat roleplay** with dice rolls and **more**! We recommend you read the [how to begin](HowToBegin.md) page first if you're new to roleplay.
+Roleplay is another way for players to experience our server and get immersed in the world we have built. As a beginner it can seem confusing and hard to understand, so we made this guide to help you learn and become a capable roleplayer! At the end of this you should be able to understand **roleplay terminology**, how to act out **combat roleplay** with dice rolls and **more**! We recommend you read the [creating a character](creating-a-character.md) page first if you're new to roleplay.
 * * *
 
 ## Character Terms
@@ -28,7 +28,7 @@ Roleplay is another way for players to experience our server and get immersed in
 ??? example "Example of Metagaming"
     **The Fire Lord has died and it's been kept in secret so the Fire Nation doesn't go into mass panic. I know this information out of character and go tell other characters about it in roleplay without my actual character finding out about the death.** - This would be metagaming as my character doesn't know the Fire Lord has died so even though I know about it out of character I can't have my roleplay character know this knowledge without actually finding it out in roleplay.
 
-**Godmodding** - This term is used for characters who have unrealistic powers and skills they didn't work for. This is **not allowed** because you have to work through roleplay to achieve rare abilities or master something. You can find the information about how to do this for each nation on our [mastery](Mastery.md) page. It is important that characters work for their skills and still have flaws.
+**Godmodding** - This term is used for characters who have unrealistic powers and skills they didn't work for. This is **not allowed** because you have to work through roleplay to achieve rare abilities or master something. You can find the information about how to do this for each nation on their mastery pages. It is important that characters work for their skills and still have flaws.
 
 ??? example "Example of Godmodding"
     **My character is a master firebender who knows combustion bending and how to lightning bend. He also is really good at telling when people are lying so it's impossible for people to plot against him.** - This would be Godmodding because the character is a master and knows extremely complex and rare skills which they haven't worked for which gives them an extreme advantage over others.

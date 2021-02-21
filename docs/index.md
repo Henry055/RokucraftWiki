@@ -22,4 +22,4 @@
 
 <br>
 
-<font size=3> Large parts of this wiki were written by collaborators in our community. Check them out [here](Collaborators.md).</font>
+<font size=3> Large parts of this wiki were written by collaborators in our community. Check them out [here](collaborators.md).</font>
