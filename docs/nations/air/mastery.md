@@ -27,9 +27,9 @@ After completing the training, there is a trial. If it’s passed the Masters pr
 
 ## Sub-bending
 
-**Spiritual Projection** - An ability developed by only highly spiritual people, deeply connected to non-materialistic things. Spiritual Projection allows the bender to leave his material body and move freely as a spirit of himself.
+**Spiritual Projection** - An ability developed by only highly spiritual people, deeply connected to non-materialistic things. Spiritual Projection allows the bender to leave their material body and move freely as a spirit of themselves.
 
-**Sound Bending** - A form of bending where the user kinetically manipulates sound waves and uses them to attack his opponents or to sense sonic vibrations around him to detect obstacles.
+**Sound Bending** - A form of bending where the user kinetically manipulates sound waves and uses them to attack their opponents or to sense sonic vibrations around them to detect obstacles.
 
 ## Special Skills
 
@@ -42,7 +42,7 @@ Some skills that have been developed by the monks are not as complex as sub-bend
 ### Requirements
 
 - [x] In order to apply for a sub-bending, a character application is required.
-- [x] To achieve a special skill, all you need to do is to find a master and learn it from him. (No character app required, although useful)
+- [x] To achieve a special skill, all you need to do is to find a master and learn it from them. (No character app required, although useful)
 
 <center>*** For more information on how to achieve a certain skill or bending, please contact the Nation Leader.***</center>
 * * *
