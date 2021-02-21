@@ -1,6 +1,6 @@
 # Character Applications
 
-Character applications are used to determine whether someone's character is able to progress to roles with higher responsibility. These roles can be bending masters, sub-bending users, government roles and more. The reason we have character applications is because we don't want anyone having these roles who might abuse them or be immature with them, with applications we are able to determine if they have shown capability and experience to gain the opportunity at getting these roles. Applications can be posted in our Character Applications section on our <a href="https://www.rokucraft.com/forum/m/24336306/viewforum/9706889" target="_blank">forums</a>.
+Character applications are used to determine whether someone's character is able to progress to roles with higher responsibility. These roles can be bending masters, sub-bending users, government roles and more. The reason we have character applications is to ensure that the players advancing to important and high levels roles will be mature, responsible and not abuse their position. Applications help us to determine the person's capabilities and experience when considering their opportunity at getting these roles. Applications can be posted in our Character Applications section on our <a href="https://www.rokucraft.com/forum/m/24336306/viewforum/9706889" target="_blank">forums</a>. **You do not need an accepted character application in order to roleplay!**
 * * *
 
 ## Templates
@@ -47,6 +47,8 @@ Character applications are used to determine whether someone's character is able
     As you stride down the sidewalk, a person bumps into you. You turn to them and see that they’re holding a map. “Ah! Sorry, I’m a bit lost.” They sheepishly look back down at their map and back up so you’re free to continue walking.**
 
 === "Additional Character Application Template"
+
+    *Use this template if you have made an application for a different character before.*
 
     <font size=3><ins>OOC Section</ins></font>
 
