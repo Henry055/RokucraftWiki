@@ -11,7 +11,6 @@
 * Lego
 * River
 * Tae
-<!-- SteelWoolSheep -->
 * Wang
 
 </font>
