@@ -146,9 +146,9 @@ nav:
        - Cards: gameplay/cards.md
        - Chat System (PLACEHOLDER): gameplay/chat-system.md
        - Housing: gameplay/housing.md
-       - Pets (PLACEHOLDER): gameplay/pets.md
+       - Pets: gameplay/pets.md
   - Server Related:
        - Resource Pack: server-related/resource-pack.md
        - Rules: server-related/rules.md
        - FAQ (PLACEHOLDER): server-related/frequently-asked-questions.md
-       - Staff: server-related/staff.md
+       - Staff (WIP): server-related/staff.md
