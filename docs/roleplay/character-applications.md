@@ -1,6 +1,7 @@
 # Character Applications
 
 Character applications are used to determine whether someone's character is able to progress to roles with higher responsibility. These roles can be bending masters, sub-bending users, government roles and more. The reason we have character applications is because we don't want anyone having these roles who might abuse them or be immature with them, with applications we are able to determine if they have shown capability and experience to gain the opportunity at getting these roles. Applications can be posted in our Character Applications section on our <a href="https://www.rokucraft.com/forum/m/24336306/viewforum/9706889" target="_blank">forums</a>.
+* * *
 
 ## Templates
 
@@ -116,3 +117,4 @@ Character applications are used to determine whether someone's character is able
     **A group of nobles stride out of the village's town hall. They stand tall at the top of the steps and they begin to address the crowd of middle class citizens and peasants. "Villagers! Starting at the beginning of next month, we will be imposing a tax on this village, its exports, and its imports! We will be speaking with your governor to further discuss changes in this region, as us nobles are here on a mission to benefit you." The noble who is speaking has a greedy glint in his eye, and it doesn't go unnoticed by the crowd. Steadily, voices raise in protest.**
 
     **There’s a cargo ship docked, and three workers are loading crates of goods onto the ship. Inside the crates are tons of food, merchandise, precious metals, and jewelry. There’s an opportunity to steal some of the goods when they’re all taking a crate and walking onto the ship to drop it off before walking back to the dock.**
+* * *
