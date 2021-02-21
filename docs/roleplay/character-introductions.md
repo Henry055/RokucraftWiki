@@ -1,4 +1,4 @@
-# Character Introductions (WIP)
+# Character Introductions
 
 Many people wonder what people mean when they talk about character introductions. A character introduction is a page where you explain who your character is for other people in the community to see, these can be super useful for people who want to learn your characters backstory, stengths, traits, etc. without having to go around asking you for every specific detail. You can see other peoples character introductions and make your own in our 'Character Introductions' section on our <a href="https://www.rokucraft.com/forum/m/24336306/viewforum/9027575" target="_blank">forums</a>.
 * * *
@@ -9,7 +9,7 @@ Many people wonder what people mean when they talk about character introductions
 
 **IGN** - People will often want to know your minecraft username so they know who you are.
 
-**Name** - What is you characters name?
+**Name** - What is you character's name?
 
 **Gender** - Which gender does your character identify with?
 
@@ -32,6 +32,18 @@ Many people wonder what people mean when they talk about character introductions
 **Pets** - Does your character have any pets such as a flying lemur, fire ferret, elbow leech, etc?
 
 **Profession** - Does your character have a job?
+
+**Favourite Food** - What's your character's favourite food to eat?
+
+**Hobbies** - What does your character often do for fun?
+
+**Backstory** - What's happened in your character's past?
+
+**Strengths** - What is your character good at?
+
+**Weaknesses** - What is your character bad at?
+
+**Personality** - What is your character like as a person?
 * * *
 
 *You can also view our pre-made character introduction <a href="https://www.rokucraft.com/forum/m/24336306/viewthread/31734638-character-introduction-template" target="_blank">template</a>.*
