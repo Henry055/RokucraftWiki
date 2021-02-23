@@ -48,7 +48,7 @@ Character applications are used to determine whether someone's character is able
 
 === "Additional Character Application Template"
 
-    *Use this template if you have made an application for a different character before.*
+    ***Use this template if you have made an application for a different character before.***
 
     <font size=3><ins>OOC Section</ins></font>
 

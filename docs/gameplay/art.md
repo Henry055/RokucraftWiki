@@ -30,7 +30,7 @@
      width="600"
      height="300"></p>
 
-<font size=4>Now it's time to begin painting onto the canvas! To paint, click the Canvas with different colours. Right-Click and drag to draw lines and curves. You can also click with a Paint Bucket and a colour in your offhand to fill in an area.</font>
+<font size=4>Now it's time to begin painting onto the canvas! To paint, click the Canvas with different colours. Right-Click and drag to draw lines and curves. You can also click with a Paint Bucket and a colour in your offhand to fill in an area. If you mess up or want to restart you can do `/artmap clear` while painting!</font>
 
 <p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/Art6_1613835178.png"
      width="600"
