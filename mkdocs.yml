@@ -4,6 +4,7 @@ site_author: Henry#0009
 site_description: Rokucraft's Official Wiki
 repo_name: Rokucraft Wiki
 repo_url: https://github.com/Henry055/RokucraftWiki/
+edit_uri: edit/main/docs/
 
 # Plugins
 plugins:
