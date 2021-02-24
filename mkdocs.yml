@@ -2,6 +2,8 @@
 site_name: Rokucraft Wiki
 site_author: Henry#0009
 site_description: Rokucraft's Official Wiki
+
+# Repository
 repo_name: Rokucraft Wiki
 repo_url: https://github.com/Henry055/RokucraftWiki/
 edit_uri: edit/main/docs/
