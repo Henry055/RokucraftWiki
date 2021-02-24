@@ -2,8 +2,6 @@
 site_name: Rokucraft Wiki
 site_author: Henry#0009
 site_description: Rokucraft's Official Wiki
-
-# Repository
 repo_name: Rokucraft Wiki
 repo_url: https://github.com/Henry055/RokucraftWiki/
 edit_uri: edit/main/docs/
@@ -121,7 +119,7 @@ nav:
         - Court System: nations/fire/court-system.md
       - Mastery & Sub-elements (PLACEHOLDER): nations/fire/mastery.md
     - 💨 Air Collective:
-      - Overview: nations/air/air-collective.md
+      - Overview (PLACEHOLDER): nations/air/air-collective.md
       - Societal Ranks: nations/air/societal-ranks.md
       - Air Council: nations/air/council.md
       - Mastery & Sub-elements: nations/air/mastery.md
