@@ -25,7 +25,7 @@ Abbots, Abbesses and the Mayor, meet with the Air Representative once in a while
 <!-- The 'warning' type below is only for aesthetic purposes, it makes the orange border colour. -->
 !!! warning ""
     <font size=3>**Government System:**
-    Tyranny<br>
+    Council<br>
     **Head of State:**
     Air Representative<br>
     **Territorial Divisions:**
