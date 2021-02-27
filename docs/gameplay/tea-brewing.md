@@ -37,8 +37,8 @@
      height="300"></p>
 
 <font size=4>The next step is to begin the tea making process. Find one of the 'Unbrewed Tea' crafting stations to begin making.</font><br>
-<p align=center><font size=4><b>Tip:</b></font></p>
-<font size=4>Tea made with more common ingredients doesn't earn as much as tea's made with rare ingredients.</font>
+!!! info
+     <font size=4>Tea made with more common ingredients doesn't earn as much as tea's made with rare ingredients.</font>
 
 <p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/Tea7_1613835021.png"
      width="600"
