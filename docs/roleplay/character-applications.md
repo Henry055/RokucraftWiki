@@ -207,3 +207,6 @@ Character applications are used to determine whether someone's character is able
         There’s a cargo ship docked, and three workers are loading crates of goods onto the ship. Inside the crates are tons of food, merchandise, precious metals, and jewelry. There’s an opportunity to steal some of the goods when they’re all taking a crate and walking onto the ship to drop it off before walking back to the dock.
         ```
 * * *
+---
+description: Nullam urna elit, malesuada eget finibus ut, ac tortor.
+---
