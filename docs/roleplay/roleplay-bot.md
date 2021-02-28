@@ -5,7 +5,7 @@ Currently all our nation discord servers use the **Jinkaku** bot for roleplaying
 
 ## Creating a Character
 
-The bot uses `rp!` as it's prefix for every command. To create a new character you go to the designated 'Bot-Commands' channel and type: `rp!create` followed with **your** character's name.<br><ins>**For example:**</ins> If I wanted to make a character named 'Roleplay Tutorial' I would type the command, `rp!create Roleplay Tutorial`.
+The bot uses `rp!` as its prefix for every command. To create a new character you go to the designated 'Bot-Commands' channel and type: `rp!create` followed with **your** character's name.<br><ins>**For example:**</ins> If I wanted to make a character named 'Roleplay Tutorial' I would type the command, `rp!create Roleplay Tutorial`.
 * * *
 
 ## Character Profile Customisation
