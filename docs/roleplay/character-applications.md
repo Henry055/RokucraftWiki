@@ -48,7 +48,7 @@ Character applications are used to determine whether someone's character is able
 
     ??? template "BBCode Template"
         
-        ```
+        ```bbcode
         [size=6]OOC Section[/size]
 
         [b]IGN[/b] -
@@ -116,7 +116,7 @@ Character applications are used to determine whether someone's character is able
 
     ??? template "BBCode Template"
         
-        ```
+        ```bbcode
         [size=6]OOC Section[/size]
 
         [b]IGN[/b] -
@@ -180,7 +180,7 @@ Character applications are used to determine whether someone's character is able
 
     ??? template "BBCode Template"
         
-        ```
+        ```bbcode
         [size=6]OOC Section[/size]
 
         [b]IGN[/b] -
