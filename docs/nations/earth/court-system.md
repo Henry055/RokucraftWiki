@@ -1,3 +1,6 @@
+---
+title: Earth Kingdom Court System
+---
 # Earth Kingdom Court System
 * * *
 
