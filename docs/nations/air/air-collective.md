@@ -1,3 +1,7 @@
+---
+title: Overview - Air Collective
+---
+
 # The Air Collective Lore
 
 The Air Collective is spread around the world and it’s known for its peaceful and nomadic lifestyle. With four temples set in four world directions, the Air Collective has separated themselves high in the mountains that they reach with their gliders.
