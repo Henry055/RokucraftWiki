@@ -1,3 +1,7 @@
+---
+title: Yutu Clan
+---
+
 # The Yutu of Sukika
 
 The Yutu clan is the clan that resides in the small village of Sukika. Their history has been lost since the eradication of the Waterbenders during the 100 Years War. They lost tradition and relied on others to build the Southern Water Tribe back to its former glory. But now things have changed and thank Tui and La that the elders had kept records of the old way. They are a tribe of fierce hunters who become one with the hunt. They connect to the animal and see themselves as the apex predators but with the knowledge that anything can change during the hunt.

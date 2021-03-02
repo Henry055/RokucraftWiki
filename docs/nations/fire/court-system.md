@@ -1,3 +1,7 @@
+---
+title: Fire Nation Court System
+---
+
 # Fire Nation Court System
 * * *
 

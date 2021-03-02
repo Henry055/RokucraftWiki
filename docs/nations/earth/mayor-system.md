@@ -1,3 +1,7 @@
+---
+title: Earth Kingdom Mayor System
+---
+
 # Earth Kingdom Mayor System
 * * *
 

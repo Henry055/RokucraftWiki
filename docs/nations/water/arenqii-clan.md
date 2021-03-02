@@ -1,3 +1,7 @@
+---
+title: Arenqii Clan
+---
+
 # The Arenqii of Amaruq
 
 <center>**⟰ “It takes a village…” ⟰**</center>

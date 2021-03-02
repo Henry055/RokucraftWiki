@@ -1,3 +1,7 @@
+---
+title: Fire Nation Govenor System
+---
+
 # Fire Nation Governor System
 * * *
 

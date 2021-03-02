@@ -1,5 +1,5 @@
 ---
-title: Overview - Air Collective
+title: Air Collective Overview
 ---
 
 # The Air Collective Lore

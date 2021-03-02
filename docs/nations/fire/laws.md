@@ -1,3 +1,7 @@
+---
+title: Fire Nation Laws
+---
+
 # Fire Nation Laws
 * * *
 

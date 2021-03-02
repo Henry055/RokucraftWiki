@@ -1,3 +1,7 @@
+---
+title: Earth Kingdom Overview
+---
+
 # The Earth Kingdom Lore
 
 The Earth Kingdom is known as the biggest nation out of all four nations. It takes the space of a whole continent and many islands surrounding it. In the past, the Earth Kingdom has been known as a defensive nation. During the Hundred Year War the Earth Kingdom stayed in a constant defensive state, and its main capital Ba Sing Se was not penetrated until the end of the war. After the war, the Earth Kingdom decided to make peace with the Fire Nation, and help rebuild the Air Collective.

@@ -1,3 +1,7 @@
+---
+title: Water Tribe Societal Ranks
+---
+
 # Water Tribe Societal Ranks
 * * *
 ## Water Tribe Government

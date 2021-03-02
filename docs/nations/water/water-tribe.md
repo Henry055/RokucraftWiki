@@ -1,3 +1,7 @@
+---
+title: Water Tribe Overview
+---
+
 # The Water Tribe Lore
 
 The Water Tribe is a name used to describe the Nation of Waterbenders and Nonbenders living in the North and South pole. These climates are usually covered in snow and ice but are perfectly livable to its habitants. Some Waterbenders can also live in a settlement within the Earth Kingdom that consists of mostly swamplands called the Foggy Swamp. For the most part, the separated tribes, North, South, and Foggy, don't really interact with each other due to their distance. Distance isn't the only thing separating each tribe as each of them share different cultural norms among themselves.

@@ -1,3 +1,7 @@
+---
+title: Airbending Mastery
+---
+
 # Airbending
 
 Airbending is very dynamic and complex. It requires not only strong legs and core, but also flexibility. Airbenders move in a circular motion with open palms waiting to strike at the right time using the opponent's energy against them.

@@ -1,3 +1,7 @@
+---
+title: Earth Kingdom Laws
+---
+
 # Earth Kingdom Laws
 
 The laws of the Earth Kingdom are to be obeyed on all soils that the kingdom rests on and claims, including smaller city states. All laws are final and unmoving unless provoked through proper channels to the crown. Citizens of the kingdom are subjected to the law. All the laws have been posted throughout the kingdom, claiming lack of knowledge to the laws does not make you immune to them. All will be punished by the great and just system of the Earth Kingdom.

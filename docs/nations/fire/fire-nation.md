@@ -1,5 +1,5 @@
 ---
-title: Overview | Fire Nation
+title: Fire Nation Overview
 ---
 
 # The Fire Nation Lore

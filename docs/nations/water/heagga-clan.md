@@ -1,3 +1,7 @@
+---
+title: Heagga Clan
+---
+
 # The Heagga of Nauruk
 * * *
 

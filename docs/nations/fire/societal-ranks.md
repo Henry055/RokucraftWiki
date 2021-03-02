@@ -1,3 +1,7 @@
+---
+title: Fire Nation Societal Ranks
+---
+
 # Fire Nation Societal Ranks
 * * *
 ## The Fire Nation Cabinet

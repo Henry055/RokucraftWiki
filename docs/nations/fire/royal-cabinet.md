@@ -1,3 +1,7 @@
+---
+title: Fire Nation Royal Cabinet
+---
+
 # Fire Nation Royal Cabinet
 * * *
 

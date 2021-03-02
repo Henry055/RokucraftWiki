@@ -1,3 +1,7 @@
+---
+title: Air Collective Societal Ranks
+---
+
 # Air Collective Societal Ranks
 * * *
 

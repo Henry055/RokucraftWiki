@@ -1,3 +1,7 @@
+---
+title: Koalkoaq Clan
+---
+
 # The Koalkoaq of Eskele
 
 The Koalkoaq Clan resides in the town of Eskele which is built on cliffs by the coast. These cliffs are rich in minerals such as steel, iron and bronze and the waters off the coast are hotspots for sea creatures such as whales to pass through on their annual migrations. The combination of these things allows the Clan to acquire the materials needed to make superior weapons and armor. As a coastal and militant town, Eskele is known for its shipbuilders and weaponsmiths.
