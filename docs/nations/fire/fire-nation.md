@@ -1,3 +1,7 @@
+---
+title: Overview | Fire Nation
+---
+
 # The Fire Nation Lore
 
 The Fire Nation has been historically known as violent conquerors of the world, committing the infamous genocide of the Air Nomads as well as Fire Lord Ozai's plan to scorch the Earth Kingdom to the ground. After the Hundred Year War however, in Fire Lord Zuko's reign, the Fire Nation became much more peaceful and benevolent population. This trend has continued for the most part in modern time even after Zuko's rule.
