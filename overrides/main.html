@@ -1,7 +1,7 @@
 {% extends "base.html" %}
 {% block extrahead %}
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="page.meta.title" />
+  <meta property="og:title" content="{{ page.meta.title }}" />
   <meta property="og:description" content="{{ config.site_description }}" />
   <meta property="og:url" content="{{ page.canonical_url }}" />
   <meta property="og:image" content="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/WikiLogo_1614538923.png">
