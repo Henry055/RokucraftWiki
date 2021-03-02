@@ -1,3 +1,7 @@
+---
+title: Earth Kingdom Societal Ranks
+---
+
 # Earth Kingdom Societal Ranks
 * * *
 ## Earth Kingdom Cabinet
