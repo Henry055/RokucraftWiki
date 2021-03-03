@@ -19,7 +19,7 @@ Now that you've set-up a character with your desired name it's time for you to b
     - **Age** - To set your character's age you need to type, `rp!age` followed by your character's age.<br><ins>**For example:**</ins> If my character was 25 I would type, `rp!age 25`.
     - **Gender** - To set your character's gender you need to type, `rp!gender` followed by your character's gender.<br><ins>**For example:**</ins> If my character was non-binary I would type, `rp!gender Non-Binary`
     - **Sexuality** - To set your character's sexuality you need to type, `rp!sexuality` followed by your character's sexuality.<br><ins>**For example:**</ins> If my character was undetermined about their sexuality I would type, `rp!sexuality Undetermined`
-    - **Description** - To set a character description you need to type, `rp!desc` followed by your character's description.<br><ins>**For example:**</ins> If I wanted to describe my character as a really evil villain I would type, `rp!desc They are a really evil person who seeks to cause havoc and destruction in their village!`. (Descriptions can be much longer and shorter than this depending on how detailed you chose to do it.)
+    - **Description** - To set a character description you need to type, `rp!desc` followed by your character's description.<br><ins>**For example:**</ins> If my character was a roleplay tutorial bot I would type, `rp!desc I am roleplay, here to assist you!`
 * * *
 
 ## Character Set-Up
