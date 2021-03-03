@@ -35,13 +35,13 @@ Once you have added the information you wanted to your character profile you are
 
 I followed my tutorial and this is the character profile I created:
 
-<p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/RoleplayBot1_1613835565.png"
+<p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/RoleplayBot1_1614779609.png"
      width="600"
      height="300"></p>
 
 So now, when I type `rpR "Hello! Roleplay tutorial here!"` This is what it would look like!
 
-<p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/RoleplayBot2_1613835565.png"
+<p align=center><img src="https://s3.amazonaws.com/files.enjin.com/765924/modules/forum/attachments/RoleplayBot2_1614779609.png"
      width="600"
      height="300"></p>
 
