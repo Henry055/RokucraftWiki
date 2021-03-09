@@ -54,15 +54,13 @@ Roleplay is another way for players to experience our server and get immersed in
 **Speaking Out of Character** - When in a roleplay scenario you need to make it clear when you're speaking out of character. You can do this by speaking in local channel rather than the roleplay channel by doing `/ch local`. You can also use brackets around the words you are saying out of character. For example: `I put some dirt in his sandwich. ((This is going to be so funny!`
 * * *
 
-## Combat Roleplay & Rolls
-
-### General Combat
+## Combat Roleplay
 
 Combat Roleplay is something people find themselves in a lot. It's a really fun way to have your character get through fights and learn combat without it being unfair. Acting out combat roleplay can be confusing at the start but this should teach you exactly how to do it. It's important you don't break the rules on godmodding and powergaming as that would completely ruin the fairness of combat roleplay.
 
 This means whenever you are doing combat roleplay and haven't got permission to directly kill or badly hurt someone you leave room for them to react, so instead of going *'I hit and pierce you with a really sharp ice spike.'* you would say *'I lift a sharp ice spike and attempt to hit you in the shoulder with it'* this leaves room for the other person to evade, dodge and react in any way they want, no matter how strong your character is you are never allowed to powergame without the other player's permission. Sometimes this can lead to combat roleplay lasting a very long time if both players are keen on not letting their character get hurt which is why some people prefer to use rolls.
 
-### Rolls
+## Rolls
 Rolls aren't required when roleplaying so it's important to discuss with the other person if you will be using them or not. Rolls can be done in all our Nation's discords so it's important to ask what command that nation uses for dice rolls. We do rolls out of **20**, so you'll get a random number between 1 and 20 with the lower the number the worse the action is.
 
 If someone rolled a 20 when throwing a boulder and you rolled a 3 for your defence their boulder would hit you as they had a significantly higher roll. Some people don't like to use rolls as they find their combat roleplays are more interesting and realistic when they do it themselves, it's important to note that if you don't use rolls your character should still take a few hits here and there **even if they're a master**.
