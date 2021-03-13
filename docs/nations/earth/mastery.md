@@ -348,3 +348,5 @@ Earthbending is based on the Hung Gar style of kung fu. If you’re looking for 
 You can find more information on the <a href="https://avatar.fandom.com/wiki/Earthbending#Origin" target="_blank">Avatar Wiki</a>
 
 * * *
+
+<p class= writingcredit>System by <b>LegoNerd2014</b></p>
